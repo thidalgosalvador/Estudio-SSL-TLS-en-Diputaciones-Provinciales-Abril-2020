@@ -107,7 +107,7 @@ Relacionado con los certificados digitales, la configuración en la parte servid
 | Correcta    | 23    | 56,1% |
 | Con errores | 18    | 43,9% |
 
-##### Validación de certificados
+#### Validación de certificados
 
 En el inicio de la comunicación segura entre un cliente (navegador web) y el servidor web de la sede electrónica se realiza el proceso de validación del certificado digital facilitado por el servidor. Esta validación se puede realizar mediante protocolo OCSP o a través de listas CRL.
 
