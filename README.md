@@ -173,7 +173,7 @@ Las últimas tendencias marcan el uso de cifrados fuertes con modos de operació
 | 3DES\_IDEA               | 22        | 19 |
 | aNULL \(No Encr/noAuth\) | 2         | 39 |
 
-Destaca negativamente el uso de protocolos aNULL, que no aportan ni cifrado ni autenticación) en dos sedes, y el uso casi extendido de cifrados 3DES_IDEA y LOW (cifrados del tipo RC2, RC4 o DES), que verdaderamente, para la negociación con el actual parque de clientes susceptibles de conectar con una sede electrónica, no serían necesarios.
+Destaca negativamente el uso de protocolos aNULL, que no aportan ni cifrado ni autenticación, en dos sedes, y el uso casi extendido de cifrados 3DES_IDEA y LOW (cifrados del tipo RC2, RC4 o DES), que verdaderamente, para la negociación con el actual parque de clientes susceptibles de conectar con una sede electrónica, no serían necesarios.
 
 El orden de los cifrados más usados sería el siguiente:
 | ORDEN | Sedes | CIPHER\_Hex   | CIPHER\_NAME                                 |
@@ -202,7 +202,7 @@ Para la mejora de la seguridad de sitios webs, existen una serie de cabeceras de
 
 Casi la mitad de las sedes estudiadas, el 48,8%, obtienen un grado F (Fail) en su puntuación; es decir, no implementan cabeceras de seguridad alguna. Tan solo seis sedes (14,6%) incluye en su configuración al menos cuatro cabeceras para alcanzar el grado C, que indica un nivel aceptable de seguridad en ese aspecto.
 
-Las cabeceras de seguridad más utilizadas se muestran en la siguiente table:
+Las cabeceras de seguridad más utilizadas se muestran en la siguiente tabla:
 
 | Cabecera                    | Usos |
 |----------------------------:|:----:|
